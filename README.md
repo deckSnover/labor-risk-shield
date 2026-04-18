@@ -1,13 +1,15 @@
-# 🛡️ Labor Risk Shield: Inteligência de Dados aplicada à NR-1
+# 🛡️ Labor Risk Shield: Inteligência de Dados e Compliance NR-1
 
-## 💡 A Tese: A Jornada como Sensor de Risco Ocupacional
-Em operações de alta complexidade, a gestão de ponto eletrônico não pode ser apenas burocrática. O **Labor Risk Shield** transforma registros de jornada em um sistema de **Alerta Antecipado de Passivos**.
+## 💡 A Tese Estratégica
+Este projeto demonstra como a ciência de dados pode ser aplicada para identificar o **Nexo Causal** entre a fadiga operacional e o absenteísmo. Através do monitoramento de violações da CLT (Art. 66 e 71), conseguimos prever picos de atestados médicos antes que eles se tornem passivos trabalhistas.
 
-### 🔴 O Problema (Pain Point)
-O excesso de horas extras e a supressão de intervalos (Art. 66 e 71 CLT) geram fadiga biológica, aumento de atestados e riscos jurídicos por dano existencial.
+### 🏗️ Diferenciais do Projeto
+* **Audit Trail:** Logs de execução que provam a integridade da análise.
+* **Prevenção Preditiva:** Foco no Gerenciamento de Riscos Ocupacionais (GRO).
+* **Visão Executiva:** Dashboards desenhados para tomada de decisão em nível de diretoria.
 
-### 🛡️ A Solução (The Strategy)
-Este motor analítico correlaciona a "Fadiga Operativa" com o absenteísmo médico através de Médias Móveis e Heatmaps, permitindo uma intervenção preventiva de GRC alinhada à NR-1.
+## 📊 Dashboard de Monitoramento (Resultado da Auditoria)
+![Monitoramento de Risco](assets/monitoramento_recorrente.png)
 
 ---
 **Igor Hilario Silva** | *Executive HR Manager & GRC Architect*

@@ -1,0 +1,11 @@
+# Ignorar arquivos de código e ambiente
+src/
+*.py
+__pycache__/
+.venv/
+.env
+
+# NÃO ignorar estas pastas (elas devem subir)
+!assets/
+!logs/
+!README.md
