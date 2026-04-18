@@ -21,4 +21,4 @@ Resultado do processamento dos dados, identificando visualmente os setores e per
 ### 🔍 Governança e Rastreabilidade
 O sistema gera automaticamente relatórios de exceção na pasta `/logs`, permitindo que o gestor de DP atue de forma cirúrgica nos focos de risco antes que se tornem processos trabalhistas.
 
-**Igor Hilario Silva** | *Personnel Analyst & GRC Architect*
+**Igor Hilario Silva** | *Gerente de Governança de RH/DP | Compliance, Auditoria e People Analytics*
