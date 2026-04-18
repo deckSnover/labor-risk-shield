@@ -1,15 +1,24 @@
-# 🛡️ Labor Risk Shield: Inteligência de Dados e Compliance NR-1
+# 🛡️ Labor Risk Shield: Pipeline de Auditoria e GRC (NR-1)
 
-## 💡 A Tese Estratégica
-Este projeto demonstra como a ciência de dados pode ser aplicada para identificar o **Nexo Causal** entre a fadiga operacional e o absenteísmo. Através do monitoramento de violações da CLT (Art. 66 e 71), conseguimos prever picos de atestados médicos antes que eles se tornem passivos trabalhistas.
+Este projeto implementa um **Pipeline de Dados (ETL)** robusto para o monitoramento contínuo de riscos ocupacionais e conformidade trabalhista (Compliance). O motor de dados transforma registros brutos de jornada em inteligência preditiva para o SESMT e Departamento Pessoal.
 
-### 🏗️ Diferenciais do Projeto
-* **Audit Trail:** Logs de execução que provam a integridade da análise.
-* **Prevenção Preditiva:** Foco no Gerenciamento de Riscos Ocupacionais (GRO).
-* **Visão Executiva:** Dashboards desenhados para tomada de decisão em nível de diretoria.
+## ⚙️ Arquitetura do Pipeline de Dados
+Abaixo, o fluxo de engenharia que sustenta a auditoria, desde a extração dos dados brutos até a geração de trilhas de auditoria:
 
-## 📊 Dashboard de Monitoramento (Resultado da Auditoria)
-![Monitoramento de Risco](assets/monitoramento_recorrente.png)
+![Diagrama da Arquitetura do Pipeline](assets/diagrama_pipeline.png)
+
+### Diferenciais Técnicos:
+* **Data Quality:** Camada de validação de integridade dos registros de ponto.
+* **Compliance Engine:** Cálculo automático de reincidência e estouro do limite de 120min de HE.
+* **Nexo Causal:** Algoritmo que correlaciona fadiga acumulada com a probabilidade de absenteísmo.
+
+## 📊 Dashboard de Monitoramento Recorrente
+Resultado do processamento dos dados, identificando visualmente os setores e períodos onde a fadiga operacional gera passivos financeiros e médicos.
+
+![Dashboard de Risco](assets/monitoramento_recorrente.png)
 
 ---
-**Igor Hilario Silva** | *Executive HR Manager & GRC Architect*
+### 🔍 Governança e Rastreabilidade
+O sistema gera automaticamente relatórios de exceção na pasta `/logs`, permitindo que o gestor de DP atue de forma cirúrgica nos focos de risco antes que se tornem processos trabalhistas.
+
+**Igor Hilario Silva** | *Personnel Analyst & GRC Architect*
